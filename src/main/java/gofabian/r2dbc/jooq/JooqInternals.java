@@ -1,6 +1,7 @@
 package gofabian.r2dbc.jooq;
 
 import org.jooq.*;
+import org.jooq.Record;
 
 import java.util.ArrayList;
 import java.util.List;
